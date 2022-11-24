@@ -4,7 +4,7 @@
 
 ### 👩🏻‍💻 Projeto
 
-<strong>Página HTML básica</strong> desenvolvida durante meus estudos pela plataforma DIO. Nele foram trabalhados:
+<strong>Página HTML</strong> desenvolvida durante meus estudos pela plataforma DIO. Nele foram trabalhados:
  
 - header e footer,
 - formulário e validação de dados inseridos,
